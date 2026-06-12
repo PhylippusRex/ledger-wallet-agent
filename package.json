@@ -1,0 +1,14 @@
+{
+  "name": "ledger-wallet-agent",
+  "version": "1.0.0",
+  "description": "AI agent for Ledger hardware wallet. Plain English in, hardware-signed transactions out.",
+  "main": "src/agent.js",
+  "scripts": {
+    "start": "node src/agent.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "groq-sdk": "^0.9.0"
+  }
+}

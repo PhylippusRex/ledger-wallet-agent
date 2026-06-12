@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "wallet-cli-usage": {
+      "source": "ledgerhq/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/wallet-cli/wallet-cli-usage/SKILL.md",
+      "computedHash": "bc901f6a39fc8cf3c238bc7e5525b2587a57ba573d14ab8e6cdc6376cdb070d0"
+    }
+  }
+}
