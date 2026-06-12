@@ -58,7 +58,7 @@ wallet-cli --version   # should print wallet-cli v1.0.x
 
 ```bash
 cp .env.example .env
-# Open .env and paste your ANTHROPIC_API_KEY
+# Open .env and paste your GROQ_API_KEY
 ```
 
 **4. Run the agent**
