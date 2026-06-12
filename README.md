@@ -32,7 +32,7 @@ The Ledger Wallet CLI puts a physical device between the agent's decision and th
 
 - [Node.js](https://nodejs.org) 18 or newer
 - [Ledger Wallet CLI](https://developers.ledger.com/docs/ai-tools/ledger-cli): `npm i -g @ledgerhq/wallet-cli`
-- An [Anthropic API key](https://console.anthropic.com)
+- A [Groq API key](https://console.groq.com/keys)
 - A Ledger device **or** [Speculos emulator](#using-speculos-no-device-needed) for signing demos
 
 ---
